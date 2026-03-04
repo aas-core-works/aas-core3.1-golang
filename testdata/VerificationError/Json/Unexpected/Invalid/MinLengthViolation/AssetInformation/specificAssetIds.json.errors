@@ -1,0 +1,2 @@
+: Constraint AASd-131: Either the global asset ID shall be defined or at least one specific asset ID.;
+: Specific asset IDs must be either not set or have at least one item.

@@ -1,0 +1,25 @@
+{
+  "semanticId": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "urn:another-company:14:e9fb9bbe"
+      }
+    ]
+  },
+  "supplementalSemanticIds": "Unexpected string value",
+  "kind": "ValueQualifier",
+  "type": "6",
+  "valueType": "xs:gDay",
+  "value": "---01",
+  "valueId": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "urn:something:02:6f744b32"
+      }
+    ]
+  }
+}

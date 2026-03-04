@@ -1,0 +1,4 @@
+<property xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:dateTime</valueType>
+  <value>unexpected-prefix-2022-04-01T01:02:03Z</value>
+</property>

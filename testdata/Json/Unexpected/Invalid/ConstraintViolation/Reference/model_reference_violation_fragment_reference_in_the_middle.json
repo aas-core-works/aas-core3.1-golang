@@ -1,0 +1,17 @@
+{
+  "type": "ModelReference",
+  "keys": [
+    {
+      "type": "Submodel",
+      "value": "https://example.com/something"
+    },
+    {
+      "type": "FragmentReference",
+      "value": "something_more"
+    },
+    {
+      "type": "Property",
+      "value": "yet_something_more"
+    }
+  ]
+}

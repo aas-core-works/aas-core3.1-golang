@@ -1,0 +1,12 @@
+{
+  "dataSpecification": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "urn:some-company:10:9ac9d1a6"
+      }
+    ]
+  },
+  "dataSpecificationContent": null
+}

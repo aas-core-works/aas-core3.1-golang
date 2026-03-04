@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:hexBinary",
+  "min": "123",
+  "max": "123",
+  "modelType": "Range"
+}

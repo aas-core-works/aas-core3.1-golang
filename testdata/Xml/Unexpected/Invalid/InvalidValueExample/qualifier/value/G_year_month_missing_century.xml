@@ -1,0 +1,5 @@
+<qualifier xmlns="https://admin-shell.io/aas/3/1">
+  <type>something_86027eb8</type>
+  <valueType>xs:gYearMonth</valueType>
+  <value>01-13</value>
+</qualifier>

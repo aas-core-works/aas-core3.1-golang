@@ -1,0 +1,15 @@
+<administrativeInformation xmlns="https://admin-shell.io/aas/3/1">
+  <embeddedDataSpecifications>Unexpected string value</embeddedDataSpecifications>
+  <version>116</version>
+  <revision>116</revision>
+  <creator>
+    <type>ExternalReference</type>
+    <keys>
+      <key>
+        <type>GlobalReference</type>
+        <value>urn:an-example:13:f3f732d5</value>
+      </key>
+    </keys>
+  </creator>
+  <templateId>[\h$񒺟ìÖċ1¿</templateId>
+</administrativeInformation>

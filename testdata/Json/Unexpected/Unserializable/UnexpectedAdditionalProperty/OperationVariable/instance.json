@@ -1,0 +1,8 @@
+{
+  "value": {
+    "idShort": "something1d0edd81",
+    "typeValueListElement": "Capability",
+    "modelType": "SubmodelElementList"
+  },
+  "unexpectedAdditionalProperty": "UNEXPECTED-ADDITIONAL-PROPERTY"
+}

@@ -1,0 +1,14 @@
+{
+  "min": false,
+  "nom": true,
+  "typ": true,
+  "max": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "unexpected reference"
+      }
+    ]
+  }
+}

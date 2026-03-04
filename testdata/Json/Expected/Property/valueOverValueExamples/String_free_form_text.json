@@ -1,0 +1,5 @@
+{
+  "valueType": "xs:string",
+  "value": "some free & <free> \u1984 form text",
+  "modelType": "Property"
+}

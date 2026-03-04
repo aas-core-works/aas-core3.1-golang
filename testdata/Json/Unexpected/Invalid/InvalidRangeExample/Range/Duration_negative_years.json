@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:duration",
+  "min": "P-1Y",
+  "max": "P-1Y",
+  "modelType": "Range"
+}

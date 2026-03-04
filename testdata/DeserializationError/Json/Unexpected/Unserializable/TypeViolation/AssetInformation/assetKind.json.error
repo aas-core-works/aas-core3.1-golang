@@ -1,0 +1,1 @@
+assetKind: Expected a string representation of AssetKind, but got map[string]interface {}

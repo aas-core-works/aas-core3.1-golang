@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aas-core3.1-golang-dev-scripts"
+version = "0.0.1"
+description = "Provide development scripts for aas-core3.1-golang."
+authors = [
+    { name = "Marko Ristin", email = "marko@ristin.ch" }
+]
+license = {text = "MIT"}
+keywords = ["asset administration shell", "code generation", "industry 4.0", "industrie 4.0", "i4.0"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Programming Language :: Python :: 3.10",
+]
+requires-python = ">=3.10"
+dependencies = [
+    "requests==2.32.4",
+    "types-requests==2.32.4.20250913",
+    "aas-core-codegen==0.0.21"
+]
+
+
+[dependency-groups]
+dev = [
+    "black==25.9.0",
+    "mypy==1.18.2",
+    "pylint==3.3.8",
+    "types-requests>=2.32.4",
+]
+
+[tool.setuptools.packages.find]
+exclude = ["continuous_integration_of_dev_scripts"]

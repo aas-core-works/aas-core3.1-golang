@@ -1,0 +1,9 @@
+{
+  "type": "ExternalReference",
+  "keys": [
+    {
+      "type": "Blob",
+      "value": "https://example.com/something"
+    }
+  ]
+}

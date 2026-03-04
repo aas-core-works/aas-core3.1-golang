@@ -1,0 +1,4 @@
+<property xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:negativeInteger</valueType>
+  <value>-1e2</value>
+</property>

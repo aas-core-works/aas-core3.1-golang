@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:dateTime</valueType>
+  <min>-0003-12-20T22:53:54.02567</min>
+  <max>-0003-12-20T22:53:54.02567</max>
+</range>

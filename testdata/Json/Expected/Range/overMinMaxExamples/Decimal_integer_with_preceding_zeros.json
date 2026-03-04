@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:decimal",
+  "min": "0001234",
+  "max": "0001234",
+  "modelType": "Range"
+}

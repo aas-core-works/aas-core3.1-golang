@@ -1,0 +1,13 @@
+{
+  "type": "ExternalReference",
+  "referredSemanticId": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "urn:another-example:00:3fff168c"
+      }
+    ]
+  },
+  "keys": []
+}

@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:float</valueType>
+  <min>1.00000011920928955078125</min>
+  <max>1.00000011920928955078125</max>
+</range>

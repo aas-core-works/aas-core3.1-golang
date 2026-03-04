@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:time</valueType>
+  <min>01:19:39.4378+10:53</min>
+  <max>01:19:39.4378+10:53</max>
+</range>

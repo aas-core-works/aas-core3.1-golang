@@ -1,0 +1,25 @@
+<eventPayload xmlns="https://admin-shell.io/aas/3/1">
+  <source>
+    <type>ModelReference</type>
+    <keys>
+      <key>
+        <type>Submodel</type>
+        <value>urn:some-company:15:84fd2b1b</value>
+      </key>
+      <key>
+        <type>EventElement</type>
+        <value>something3a3b97e8</value>
+      </key>
+    </keys>
+  </source>
+  <observableReference>
+    <type>ModelReference</type>
+    <keys>
+      <key>
+        <type>Submodel</type>
+        <value>urn:something:13:06d93ead</value>
+      </key>
+    </keys>
+  </observableReference>
+  <timeStamp>􃶦𮝸</timeStamp>
+</eventPayload>

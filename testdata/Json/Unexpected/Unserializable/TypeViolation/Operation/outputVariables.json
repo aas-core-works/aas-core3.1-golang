@@ -1,0 +1,169 @@
+{
+  "extensions": [
+    {
+      "name": "11\u00d5\u00d1\ud803\udee8\u00b4K\udbca\udf2de<\udb45\uddde\u00a8ngA"
+    },
+    {
+      "name": "6"
+    }
+  ],
+  "category": "something_564bf7d4",
+  "idShort": "something_f7b01b30",
+  "displayName": [
+    {
+      "language": "en-JM-x-99426152",
+      "text": "something_1f1aba5e"
+    },
+    {
+      "language": "en-JM-x-431996fc",
+      "text": "something_842eb766"
+    }
+  ],
+  "description": [
+    {
+      "language": "en-JM-x-7ca6ed73",
+      "text": "something_1febdc77"
+    },
+    {
+      "language": "en-JM-x-588ccbcc",
+      "text": "something_216c8b1f"
+    }
+  ],
+  "semanticId": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "urn:another-company:14:e9fb9bbe"
+      }
+    ]
+  },
+  "supplementalSemanticIds": [
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "urn:another-example:14:967c1fae"
+        }
+      ]
+    },
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "urn:another-company:10:c92b4b06"
+        }
+      ]
+    },
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "urn:another-example:06:1f165292"
+        }
+      ]
+    }
+  ],
+  "qualifiers": [
+    {
+      "type": "something_22f3ec3a",
+      "valueType": "xs:integer"
+    },
+    {
+      "type": "something_1ad7ac81",
+      "valueType": "xs:double"
+    },
+    {
+      "type": "something_c7954a19",
+      "valueType": "xs:long"
+    }
+  ],
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "urn:another-company:03:97fadb7b"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en-JM-x-87ce29ed",
+            "text": "something_a0038f62"
+          },
+          {
+            "language": "en-JM-x-7c40ee17",
+            "text": "something_af9a6c53"
+          },
+          {
+            "language": "en-JM-x-f49c2ad1",
+            "text": "something_f6979a88"
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    },
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "urn:an-example:10:3fc193a2"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en-JM-x-e705ce52",
+            "text": "something_99d084e7"
+          },
+          {
+            "language": "en-JM-x-27e497c3",
+            "text": "something_8c3c1fe2"
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "inputVariables": [
+    {
+      "value": {
+        "idShort": "something0ce83fc0",
+        "modelType": "Entity"
+      }
+    }
+  ],
+  "outputVariables": "Unexpected string value",
+  "inoutputVariables": [
+    {
+      "value": {
+        "idShort": "something732046d1",
+        "typeValueListElement": "SubmodelElementCollection",
+        "modelType": "SubmodelElementList"
+      }
+    },
+    {
+      "value": {
+        "idShort": "something68b52b82",
+        "modelType": "Capability"
+      }
+    },
+    {
+      "value": {
+        "idShort": "something0a93cb4d",
+        "modelType": "Capability"
+      }
+    }
+  ],
+  "modelType": "Operation"
+}

@@ -1,0 +1,18 @@
+<basicEventElement xmlns="https://admin-shell.io/aas/3/1">
+  <observed>
+    <type>ModelReference</type>
+    <keys>
+      <key>
+        <type>Submodel</type>
+        <value>urn:yet-another-company:02:3262900a</value>
+      </key>
+      <key>
+        <type>Property</type>
+        <value>something0e5ec53f</value>
+      </key>
+    </keys>
+  </observed>
+  <direction>output</direction>
+  <state>on</state>
+  <maxInterval>-PT01332.1S</maxInterval>
+</basicEventElement>

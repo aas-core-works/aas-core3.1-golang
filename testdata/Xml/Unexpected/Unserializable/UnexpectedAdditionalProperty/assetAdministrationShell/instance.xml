@@ -1,0 +1,8 @@
+<assetAdministrationShell xmlns="https://admin-shell.io/aas/3/1">
+  <id>something_cc37fb09</id>
+  <assetInformation>
+    <assetKind>NotApplicable</assetKind>
+    <globalAssetId>6</globalAssetId>
+  </assetInformation>
+  <unexpectedAdditionalProperty>UNEXPECTED-ADDITIONAL-PROPERTY</unexpectedAdditionalProperty>
+</assetAdministrationShell>

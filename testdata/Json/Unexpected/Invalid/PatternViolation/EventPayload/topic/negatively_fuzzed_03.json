@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "ModelReference",
+    "keys": [
+      {
+        "type": "Submodel",
+        "value": "urn:some-company:15:84fd2b1b"
+      },
+      {
+        "type": "EventElement",
+        "value": "something3a3b97e8"
+      }
+    ]
+  },
+  "observableReference": {
+    "type": "ModelReference",
+    "keys": [
+      {
+        "type": "Submodel",
+        "value": "urn:something:13:06d93ead"
+      }
+    ]
+  },
+  "topic": "\udbba\ude28AD\u000f\udae9\ude96\u0085\udb7f\udf4f\u00d5",
+  "timeStamp": "2022-04-01T24:00:00-00:00"
+}

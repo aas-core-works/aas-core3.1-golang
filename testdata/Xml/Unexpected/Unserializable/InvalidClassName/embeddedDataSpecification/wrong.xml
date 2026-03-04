@@ -1,0 +1,21 @@
+<utterlyInvalid xmlns="https://admin-shell.io/aas/3/1">
+  <dataSpecification>
+    <type>ExternalReference</type>
+    <keys>
+      <key>
+        <type>GlobalReference</type>
+        <value>urn:some-company:10:9ac9d1a6</value>
+      </key>
+    </keys>
+  </dataSpecification>
+  <dataSpecificationContent>
+    <dataSpecificationIec61360>
+      <preferredName>
+        <langStringPreferredNameTypeIec61360>
+          <language>en-JM-x-b435b532</language>
+          <text>something_645306cd</text>
+        </langStringPreferredNameTypeIec61360>
+      </preferredName>
+    </dataSpecificationIec61360>
+  </dataSpecificationContent>
+</utterlyInvalid>

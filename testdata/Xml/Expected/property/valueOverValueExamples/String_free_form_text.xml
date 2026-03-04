@@ -1,0 +1,4 @@
+<property xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:string</valueType>
+  <value>some free &amp; &lt;free&gt; ᦄ form text</value>
+</property>

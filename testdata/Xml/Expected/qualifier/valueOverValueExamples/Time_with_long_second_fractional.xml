@@ -1,0 +1,5 @@
+<qualifier xmlns="https://admin-shell.io/aas/3/1">
+  <type>something_86027eb8</type>
+  <valueType>xs:time</valueType>
+  <value>21:32:52.12345678901234567890123456789012345678901234567890</value>
+</qualifier>

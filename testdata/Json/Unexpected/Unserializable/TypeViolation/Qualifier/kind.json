@@ -1,0 +1,61 @@
+{
+  "semanticId": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "urn:another-company:14:e9fb9bbe"
+      }
+    ]
+  },
+  "supplementalSemanticIds": [
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "urn:another-example:14:967c1fae"
+        }
+      ]
+    },
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "urn:another-company:10:c92b4b06"
+        }
+      ]
+    },
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "urn:another-example:06:1f165292"
+        }
+      ]
+    }
+  ],
+  "kind": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "unexpected reference"
+      }
+    ]
+  },
+  "type": "6",
+  "valueType": "xs:gDay",
+  "value": "---01",
+  "valueId": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "urn:something:02:6f744b32"
+      }
+    ]
+  }
+}

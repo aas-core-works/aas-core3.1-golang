@@ -1,0 +1,3 @@
+: Constraint AASd-005: If version is not specified then also revision shall be unspecified. This means, a revision requires a version. If there is no version there is no revision either. Revision is optional.;
+Revision: Revision type shall match the revision pattern.;
+Revision: Revision type shall have a maximum length of 4 characters.

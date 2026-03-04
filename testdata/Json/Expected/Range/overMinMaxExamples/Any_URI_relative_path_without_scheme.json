@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:anyURI",
+  "min": "path/to/somewhere",
+  "max": "path/to/somewhere",
+  "modelType": "Range"
+}

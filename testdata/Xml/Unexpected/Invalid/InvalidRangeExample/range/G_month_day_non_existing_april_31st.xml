@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:gMonthDay</valueType>
+  <min>--04-31</min>
+  <max>--04-31</max>
+</range>

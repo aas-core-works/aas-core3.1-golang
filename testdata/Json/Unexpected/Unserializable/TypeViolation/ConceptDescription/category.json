@@ -1,0 +1,120 @@
+{
+  "extensions": [
+    {
+      "name": "11\u00d5\u00d1\ud803\udee8\u00b4K\udbca\udf2de<\udb45\uddde\u00a8ngA"
+    },
+    {
+      "name": "6"
+    }
+  ],
+  "category": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "unexpected reference"
+      }
+    ]
+  },
+  "idShort": "something_f7b01b30",
+  "displayName": [
+    {
+      "language": "en-JM-x-99426152",
+      "text": "something_1f1aba5e"
+    },
+    {
+      "language": "en-JM-x-431996fc",
+      "text": "something_842eb766"
+    }
+  ],
+  "description": [
+    {
+      "language": "en-JM-x-7ca6ed73",
+      "text": "something_1febdc77"
+    },
+    {
+      "language": "en-JM-x-588ccbcc",
+      "text": "something_216c8b1f"
+    }
+  ],
+  "administration": {},
+  "id": "something_cc37fb09",
+  "embeddedDataSpecifications": [
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "urn:another-company:03:97fadb7b"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en-JM-x-87ce29ed",
+            "text": "something_a0038f62"
+          },
+          {
+            "language": "en-JM-x-7c40ee17",
+            "text": "something_af9a6c53"
+          },
+          {
+            "language": "en-JM-x-f49c2ad1",
+            "text": "something_f6979a88"
+          }
+        ],
+        "definition": [
+          {
+            "language": "en-JM-x-bc1291c8",
+            "text": "something_64411313"
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    },
+    {
+      "dataSpecification": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "urn:an-example:10:3fc193a2"
+          }
+        ]
+      },
+      "dataSpecificationContent": {
+        "preferredName": [
+          {
+            "language": "en-JM-x-e705ce52",
+            "text": "something_99d084e7"
+          },
+          {
+            "language": "en-JM-x-27e497c3",
+            "text": "something_8c3c1fe2"
+          }
+        ],
+        "definition": [
+          {
+            "language": "en-JM-x-bc009eeb",
+            "text": "something_1feff055"
+          }
+        ],
+        "modelType": "DataSpecificationIec61360"
+      }
+    }
+  ],
+  "isCaseOf": [
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "urn:another-company:06:66cbf3c6"
+        }
+      ]
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

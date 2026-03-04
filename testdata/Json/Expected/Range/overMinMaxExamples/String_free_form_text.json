@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:string",
+  "min": "some free & <free> \u1984 form text",
+  "max": "some free & <free> \u1984 form text",
+  "modelType": "Range"
+}

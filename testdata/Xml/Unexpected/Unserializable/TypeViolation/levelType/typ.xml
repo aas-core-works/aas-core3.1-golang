@@ -1,0 +1,14 @@
+<levelType xmlns="https://admin-shell.io/aas/3/1">
+  <min>false</min>
+  <nom>true</nom>
+  <typ>
+    <type>ExternalReference</type>
+    <keys>
+      <key>
+        <type>GlobalReference</type>
+        <value>unexpected reference</value>
+      </key>
+    </keys>
+  </typ>
+  <max>true</max>
+</levelType>

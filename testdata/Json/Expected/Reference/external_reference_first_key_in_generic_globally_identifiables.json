@@ -1,0 +1,9 @@
+{
+  "type": "ExternalReference",
+  "keys": [
+    {
+      "type": "GlobalReference",
+      "value": "https://example.com/something"
+    }
+  ]
+}

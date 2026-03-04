@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:unsignedLong</valueType>
+  <min>18446744073709551615</min>
+  <max>18446744073709551615</max>
+</range>

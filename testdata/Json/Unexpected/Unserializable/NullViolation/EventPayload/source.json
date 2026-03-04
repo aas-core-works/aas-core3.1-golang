@@ -1,0 +1,13 @@
+{
+  "observableReference": {
+    "type": "ModelReference",
+    "keys": [
+      {
+        "type": "Submodel",
+        "value": "urn:something:13:06d93ead"
+      }
+    ]
+  },
+  "timeStamp": "2022-04-01T24:00:00-00:00",
+  "source": null
+}

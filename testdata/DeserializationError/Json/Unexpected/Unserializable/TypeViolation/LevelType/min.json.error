@@ -1,0 +1,1 @@
+min: Expected a boolean, but got map[string]interface {}

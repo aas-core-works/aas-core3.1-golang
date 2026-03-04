@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:hexBinary</valueType>
+  <min>123</min>
+  <max>123</max>
+</range>

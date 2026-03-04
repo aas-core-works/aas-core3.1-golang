@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:duration</valueType>
+  <min>-PT0.332S</min>
+  <max>-PT0.332S</max>
+</range>

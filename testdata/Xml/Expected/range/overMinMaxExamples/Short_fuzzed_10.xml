@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:short</valueType>
+  <min>22</min>
+  <max>22</max>
+</range>

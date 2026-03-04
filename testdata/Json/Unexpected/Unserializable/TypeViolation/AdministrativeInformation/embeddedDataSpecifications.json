@@ -1,0 +1,15 @@
+{
+  "embeddedDataSpecifications": "Unexpected string value",
+  "version": "116",
+  "revision": "116",
+  "creator": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "urn:an-example:13:f3f732d5"
+      }
+    ]
+  },
+  "templateId": "[\\h$\ud90b\ude9f\u00ec\u00d6\u010b\u008a1\u00bf"
+}

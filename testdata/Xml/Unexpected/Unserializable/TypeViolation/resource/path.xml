@@ -1,0 +1,12 @@
+<resource xmlns="https://admin-shell.io/aas/3/1">
+  <path>
+    <type>ExternalReference</type>
+    <keys>
+      <key>
+        <type>GlobalReference</type>
+        <value>unexpected reference</value>
+      </key>
+    </keys>
+  </path>
+  <contentType>15j/5j</contentType>
+</resource>

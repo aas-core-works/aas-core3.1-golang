@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:float</valueType>
+  <min>NaN</min>
+  <max>NaN</max>
+</range>

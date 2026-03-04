@@ -1,0 +1,5 @@
+<levelType xmlns="https://admin-shell.io/aas/3/1">
+  <min>false</min>
+  <nom>false</nom>
+  <max>true</max>
+</levelType>

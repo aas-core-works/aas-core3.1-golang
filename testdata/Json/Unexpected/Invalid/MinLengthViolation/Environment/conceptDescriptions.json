@@ -1,0 +1,27 @@
+{
+  "assetAdministrationShells": [
+    {
+      "id": "something_142922d6",
+      "assetInformation": {
+        "assetKind": "Role",
+        "globalAssetId": "J5"
+      },
+      "modelType": "AssetAdministrationShell"
+    },
+    {
+      "id": "something_77c436c4",
+      "assetInformation": {
+        "assetKind": "Type",
+        "globalAssetId": "\uda51\udc4cM\ud86a\udc07\ud82d\udd0a\ud9c8\udd32"
+      },
+      "modelType": "AssetAdministrationShell"
+    }
+  ],
+  "submodels": [
+    {
+      "id": "something_48c66017",
+      "modelType": "Submodel"
+    }
+  ],
+  "conceptDescriptions": []
+}

@@ -1,0 +1,11 @@
+<embeddedDataSpecification xmlns="https://admin-shell.io/aas/3/1">
+  <dataSpecification>
+    <type>ExternalReference</type>
+    <keys>
+      <key>
+        <type>GlobalReference</type>
+        <value>urn:some-company:10:9ac9d1a6</value>
+      </key>
+    </keys>
+  </dataSpecification>
+</embeddedDataSpecification>

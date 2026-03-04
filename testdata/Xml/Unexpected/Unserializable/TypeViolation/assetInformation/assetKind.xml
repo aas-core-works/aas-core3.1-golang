@@ -1,0 +1,30 @@
+<assetInformation xmlns="https://admin-shell.io/aas/3/1">
+  <assetKind>
+    <type>ExternalReference</type>
+    <keys>
+      <key>
+        <type>GlobalReference</type>
+        <value>unexpected reference</value>
+      </key>
+    </keys>
+  </assetKind>
+  <globalAssetId>0</globalAssetId>
+  <specificAssetIds>
+    <specificAssetId>
+      <name>𠤢4𠤢</name>
+      <value>𠤢4𠤢</value>
+    </specificAssetId>
+    <specificAssetId>
+      <name>0</name>
+      <value>0</value>
+    </specificAssetId>
+    <specificAssetId>
+      <name>6</name>
+      <value>11ÕÑ𐻨´K􂬭e&lt;󡗞¨ngA</value>
+    </specificAssetId>
+  </specificAssetIds>
+  <assetType>Ûă&lt;P󨱽²|dnÞ®</assetType>
+  <defaultThumbnail>
+    <path>news:comp.infosystems.www.servers.unix</path>
+  </defaultThumbnail>
+</assetInformation>

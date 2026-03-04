@@ -1,0 +1,4 @@
+<resource xmlns="https://admin-shell.io/aas/3/1">
+  <path>#;</path>
+  <contentType>application/something-random</contentType>
+</resource>

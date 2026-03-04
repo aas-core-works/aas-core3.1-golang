@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:boolean",
+  "min": "True",
+  "max": "True",
+  "modelType": "Range"
+}

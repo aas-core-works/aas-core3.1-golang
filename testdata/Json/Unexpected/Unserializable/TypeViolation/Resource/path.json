@@ -1,0 +1,12 @@
+{
+  "path": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "unexpected reference"
+      }
+    ]
+  },
+  "contentType": "15j/5j"
+}

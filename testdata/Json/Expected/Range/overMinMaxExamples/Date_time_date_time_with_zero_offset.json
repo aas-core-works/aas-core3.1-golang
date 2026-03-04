@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:dateTime",
+  "min": "2022-04-01T01:02:03+00:00",
+  "max": "2022-04-01T01:02:03+00:00",
+  "modelType": "Range"
+}

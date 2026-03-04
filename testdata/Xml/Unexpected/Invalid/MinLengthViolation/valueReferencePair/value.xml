@@ -1,0 +1,12 @@
+<valueReferencePair xmlns="https://admin-shell.io/aas/3/1">
+  <value></value>
+  <valueId>
+    <type>ExternalReference</type>
+    <keys>
+      <key>
+        <type>GlobalReference</type>
+        <value>urn:something:02:6f744b32</value>
+      </key>
+    </keys>
+  </valueId>
+</valueReferencePair>
