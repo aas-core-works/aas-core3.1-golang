@@ -1,0 +1,13 @@
+<environment xmlns="https://admin-shell.io/aas/3/1">
+  <assetAdministrationShells />
+  <submodels>
+    <submodel>
+      <id>something_48c66017</id>
+    </submodel>
+  </submodels>
+  <conceptDescriptions>
+    <conceptDescription>
+      <id>something_8ccad77f</id>
+    </conceptDescription>
+  </conceptDescriptions>
+</environment>

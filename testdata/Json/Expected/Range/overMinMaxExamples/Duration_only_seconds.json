@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:duration",
+  "min": "PT130S",
+  "max": "PT130S",
+  "modelType": "Range"
+}

@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:gMonthDay",
+  "min": "--01-35",
+  "max": "--01-35",
+  "modelType": "Range"
+}

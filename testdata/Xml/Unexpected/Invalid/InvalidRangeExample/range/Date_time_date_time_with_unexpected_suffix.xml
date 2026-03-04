@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:dateTime</valueType>
+  <min>2022-04-01T01:02:03Z-unexpected-suffix</min>
+  <max>2022-04-01T01:02:03Z-unexpected-suffix</max>
+</range>

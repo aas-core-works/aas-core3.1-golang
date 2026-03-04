@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:unsignedShort",
+  "min": "+085",
+  "max": "+085",
+  "modelType": "Range"
+}

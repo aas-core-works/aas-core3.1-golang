@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:base64Binary",
+  "min": "==0F",
+  "max": "==0F",
+  "modelType": "Range"
+}

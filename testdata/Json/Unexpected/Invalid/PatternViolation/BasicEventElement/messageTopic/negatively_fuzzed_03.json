@@ -1,0 +1,19 @@
+{
+  "observed": {
+    "type": "ModelReference",
+    "keys": [
+      {
+        "type": "Submodel",
+        "value": "urn:yet-another-company:02:3262900a"
+      },
+      {
+        "type": "Property",
+        "value": "something0e5ec53f"
+      }
+    ]
+  },
+  "direction": "input",
+  "state": "on",
+  "messageTopic": "\udbba\ude28AD\u000f\udae9\ude96\u0085\udb7f\udf4f\u00d5",
+  "modelType": "BasicEventElement"
+}

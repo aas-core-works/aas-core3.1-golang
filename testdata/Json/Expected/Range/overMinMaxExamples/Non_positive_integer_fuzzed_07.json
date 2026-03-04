@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:nonPositiveInteger",
+  "min": "-004",
+  "max": "-004",
+  "modelType": "Range"
+}

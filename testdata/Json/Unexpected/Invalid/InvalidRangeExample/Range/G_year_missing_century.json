@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:gYear",
+  "min": "01",
+  "max": "01",
+  "modelType": "Range"
+}

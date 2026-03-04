@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:time",
+  "min": "24:00:00-10:44",
+  "max": "24:00:00-10:44",
+  "modelType": "Range"
+}

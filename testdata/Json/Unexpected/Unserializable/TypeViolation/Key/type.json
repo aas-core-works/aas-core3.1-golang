@@ -1,0 +1,12 @@
+{
+  "type": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "unexpected reference"
+      }
+    ]
+  },
+  "value": "\uda51\udc4cM\ud86a\udc07\ud82d\udd0a\ud9c8\udd32"
+}

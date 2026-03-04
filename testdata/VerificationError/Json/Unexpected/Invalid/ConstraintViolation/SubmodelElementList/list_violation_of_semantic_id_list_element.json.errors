@@ -1,0 +1,2 @@
+: Constraint AASd-107: If a first level child element has a semantic ID it shall be identical to semantic ID list element.;
+: Constraint AASd-114: If two first level child elements have a semantic ID then they shall be identical.

@@ -1,0 +1,18 @@
+<basicEventElement xmlns="https://admin-shell.io/aas/3/1">
+  <observed>
+    <type>ModelReference</type>
+    <keys>
+      <key>
+        <type>Submodel</type>
+        <value>urn:yet-another-company:02:3262900a</value>
+      </key>
+      <key>
+        <type>Property</type>
+        <value>something0e5ec53f</value>
+      </key>
+    </keys>
+  </observed>
+  <direction>input</direction>
+  <state>on</state>
+  <messageTopic>11ÕÑ𐻨´K􂬭e&lt;󡗞¨ngA</messageTopic>
+</basicEventElement>

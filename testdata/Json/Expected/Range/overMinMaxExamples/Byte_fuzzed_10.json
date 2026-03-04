@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:byte",
+  "min": "-00011",
+  "max": "-00011",
+  "modelType": "Range"
+}

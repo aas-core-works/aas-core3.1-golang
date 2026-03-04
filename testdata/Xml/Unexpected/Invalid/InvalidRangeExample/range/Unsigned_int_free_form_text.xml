@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:unsignedInt</valueType>
+  <min>some free form text</min>
+  <max>some free form text</max>
+</range>

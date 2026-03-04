@@ -1,0 +1,47 @@
+{
+  "extensions": [
+    {
+      "name": "11\u00d5\u00d1\ud803\udee8\u00b4K\udbca\udf2de<\udb45\uddde\u00a8ngA"
+    },
+    {
+      "name": "6"
+    }
+  ],
+  "category": "something_564bf7d4",
+  "idShort": "something_f7b01b30",
+  "displayName": [
+    {
+      "language": "en-JM-x-99426152",
+      "text": "something_1f1aba5e"
+    },
+    {
+      "language": "en-JM-x-431996fc",
+      "text": "something_842eb766"
+    }
+  ],
+  "description": [
+    {
+      "language": "en-JM-x-7ca6ed73",
+      "text": "something_1febdc77"
+    },
+    {
+      "language": "en-JM-x-588ccbcc",
+      "text": "something_216c8b1f"
+    }
+  ],
+  "administration": {},
+  "id": "something_cc37fb09",
+  "embeddedDataSpecifications": "Unexpected string value",
+  "isCaseOf": [
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "urn:another-company:06:66cbf3c6"
+        }
+      ]
+    }
+  ],
+  "modelType": "ConceptDescription"
+}

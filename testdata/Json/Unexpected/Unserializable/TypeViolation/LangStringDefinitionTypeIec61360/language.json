@@ -1,0 +1,12 @@
+{
+  "language": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "unexpected reference"
+      }
+    ]
+  },
+  "text": "something_24bc8444"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "something_cc37fb09",
+  "assetInformation": {
+    "assetKind": "NotApplicable",
+    "globalAssetId": "6"
+  },
+  "unexpectedAdditionalProperty": "UNEXPECTED-ADDITIONAL-PROPERTY",
+  "modelType": "AssetAdministrationShell"
+}

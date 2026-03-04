@@ -1,0 +1,16 @@
+{
+  "dataSpecification": "Unexpected string value",
+  "dataSpecificationContent": {
+    "preferredName": [
+      {
+        "language": "en-JM-x-719cdf87",
+        "text": "something_2b7c5f6a"
+      },
+      {
+        "language": "en-JM-x-2ffc5cd0",
+        "text": "something_c809900d"
+      }
+    ],
+    "modelType": "DataSpecificationIec61360"
+  }
+}

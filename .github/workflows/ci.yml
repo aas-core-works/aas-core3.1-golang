@@ -1,0 +1,44 @@
+name: CI
+
+on:
+  push:
+    branches: [ master, main ]
+    tags: [ "**" ]
+  pull_request:
+    branches: [ "**" ]
+
+jobs:
+  Execute-continuous-integration:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: '1.20'
+
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Install goveralls
+        run: go install github.com/mattn/goveralls@latest
+
+      - name: Check format
+        run: |
+          # NOTE (mristin):
+          # We need `go list` command to avoid formatting `_dev_scripts/`.
+          gofmt -l -s $(go list -f '{{.Dir}}' ./...)
+
+      - name: Vet
+        run: |
+          go vet ./...
+
+      - name: Run Unit tests
+        env:
+          GITHUB_COM_AAS_CORE_WORKS_AAS_CORE3_1_GOLANG_TEST_DATA_DIR: ${{ github.workspace }}/testdata
+        run: |
+          go test -covermode atomic -coverpkg=./... -coverprofile=covprofile ./...
+
+      - name: Send coverage
+        env:
+          COVERALLS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: goveralls -coverprofile=covprofile -service=github

@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:gYearMonth</valueType>
+  <min>0119-12-14:00</min>
+  <max>0119-12-14:00</max>
+</range>

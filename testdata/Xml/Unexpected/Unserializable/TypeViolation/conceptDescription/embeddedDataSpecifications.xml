@@ -1,0 +1,46 @@
+<conceptDescription xmlns="https://admin-shell.io/aas/3/1">
+  <extensions>
+    <extension>
+      <name>11ÕÑ𐻨´K􂬭e&lt;󡗞¨ngA</name>
+    </extension>
+    <extension>
+      <name>6</name>
+    </extension>
+  </extensions>
+  <category>something_564bf7d4</category>
+  <idShort>something_f7b01b30</idShort>
+  <displayName>
+    <langStringNameType>
+      <language>en-JM-x-99426152</language>
+      <text>something_1f1aba5e</text>
+    </langStringNameType>
+    <langStringNameType>
+      <language>en-JM-x-431996fc</language>
+      <text>something_842eb766</text>
+    </langStringNameType>
+  </displayName>
+  <description>
+    <langStringTextType>
+      <language>en-JM-x-7ca6ed73</language>
+      <text>something_1febdc77</text>
+    </langStringTextType>
+    <langStringTextType>
+      <language>en-JM-x-588ccbcc</language>
+      <text>something_216c8b1f</text>
+    </langStringTextType>
+  </description>
+  <administration />
+  <id>something_cc37fb09</id>
+  <embeddedDataSpecifications>Unexpected string value</embeddedDataSpecifications>
+  <isCaseOf>
+    <reference>
+      <type>ExternalReference</type>
+      <keys>
+        <key>
+          <type>GlobalReference</type>
+          <value>urn:another-company:06:66cbf3c6</value>
+        </key>
+      </keys>
+    </reference>
+  </isCaseOf>
+</conceptDescription>

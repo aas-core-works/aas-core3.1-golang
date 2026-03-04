@@ -1,0 +1,5 @@
+<qualifier xmlns="https://admin-shell.io/aas/3/1">
+  <type>something_86027eb8</type>
+  <valueType>xs:hexBinary</valueType>
+  <value>3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e67</value>
+</qualifier>

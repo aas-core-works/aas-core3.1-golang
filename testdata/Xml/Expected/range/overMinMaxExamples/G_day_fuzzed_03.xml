@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:gDay</valueType>
+  <min>---10</min>
+  <max>---10</max>
+</range>

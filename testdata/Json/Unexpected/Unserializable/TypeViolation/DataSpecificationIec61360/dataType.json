@@ -1,0 +1,50 @@
+{
+  "preferredName": [
+    {
+      "language": "en-JM-x-c7dddb5b",
+      "text": "something_2f0d303a"
+    }
+  ],
+  "shortName": [
+    {
+      "language": "en-JM-x-db8b8a3d",
+      "text": "something_71d550bb"
+    }
+  ],
+  "unit": "[\\h$\ud90b\ude9f\u00ec\u00d6\u010b\u008a1\u00bf",
+  "unitId": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "urn:example:01:c23a7921"
+      }
+    ]
+  },
+  "sourceOfDefinition": "<\u0103<P\udb63\udc7d\u00b2|dn\u009c\u00de\u00ae",
+  "symbol": "11\u00d5\u00d1\ud803\udee8\u00b4K\udbca\udf2de<\udb45\uddde\u00a8ngA",
+  "dataType": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "unexpected reference"
+      }
+    ]
+  },
+  "definition": [
+    {
+      "language": "en-JM-x-b7bc1552",
+      "text": "something_43a32378"
+    }
+  ],
+  "valueFormat": "0",
+  "value": "\uda51\udc4cM\ud86a\udc07\ud82d\udd0a\ud9c8\udd32",
+  "levelType": {
+    "min": false,
+    "nom": false,
+    "typ": true,
+    "max": true
+  },
+  "modelType": "DataSpecificationIec61360"
+}

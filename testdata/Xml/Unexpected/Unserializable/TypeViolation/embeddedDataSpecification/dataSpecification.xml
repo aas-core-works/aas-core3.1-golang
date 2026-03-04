@@ -1,0 +1,17 @@
+<embeddedDataSpecification xmlns="https://admin-shell.io/aas/3/1">
+  <dataSpecification>Unexpected string value</dataSpecification>
+  <dataSpecificationContent>
+    <dataSpecificationIec61360>
+      <preferredName>
+        <langStringPreferredNameTypeIec61360>
+          <language>en-JM-x-719cdf87</language>
+          <text>something_2b7c5f6a</text>
+        </langStringPreferredNameTypeIec61360>
+        <langStringPreferredNameTypeIec61360>
+          <language>en-JM-x-2ffc5cd0</language>
+          <text>something_c809900d</text>
+        </langStringPreferredNameTypeIec61360>
+      </preferredName>
+    </dataSpecificationIec61360>
+  </dataSpecificationContent>
+</embeddedDataSpecification>

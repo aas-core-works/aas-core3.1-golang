@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:anyURI",
+  "min": "http://datypic.com#frag1#frag2",
+  "max": "http://datypic.com#frag1#frag2",
+  "modelType": "Range"
+}

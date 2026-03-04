@@ -1,0 +1,2 @@
+Value: Constraint AASd-130: An attribute with data type 'string' shall consist of these characters only: ^[\x09\x0A\x0D\x20-\uD7FF\uE000-\uFFFD\U00010000-\U0010FFFF]*$.;
+Value: String with max 2048 and min 1 characters conformant to a URI as per RFC 2396.

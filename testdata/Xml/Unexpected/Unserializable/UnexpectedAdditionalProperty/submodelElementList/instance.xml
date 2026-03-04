@@ -1,0 +1,4 @@
+<submodelElementList xmlns="https://admin-shell.io/aas/3/1">
+  <typeValueListElement>BasicEventElement</typeValueListElement>
+  <unexpectedAdditionalProperty>UNEXPECTED-ADDITIONAL-PROPERTY</unexpectedAdditionalProperty>
+</submodelElementList>

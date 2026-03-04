@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:unsignedByte</valueType>
+  <min>232</min>
+  <max>232</max>
+</range>

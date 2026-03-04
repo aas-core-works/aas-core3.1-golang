@@ -1,0 +1,5 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:nonPositiveInteger</valueType>
+  <min>-551521749598676413553</min>
+  <max>-551521749598676413553</max>
+</range>

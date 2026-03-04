@@ -1,0 +1,26 @@
+{
+  "source": {
+    "type": "ModelReference",
+    "keys": [
+      {
+        "type": "Submodel",
+        "value": "urn:some-company:15:84fd2b1b"
+      },
+      {
+        "type": "EventElement",
+        "value": "something3a3b97e8"
+      }
+    ]
+  },
+  "observableReference": {
+    "type": "ModelReference",
+    "keys": [
+      {
+        "type": "Submodel",
+        "value": "urn:something:13:06d93ead"
+      }
+    ]
+  },
+  "topic": "\ud9da\udf7a\u00d8\u00f5\ud817\ude66,\u00e5\u00bd\u00dd\u0092\u00bd\udad6\udf6b\udb01\ude35\ud9e0\udd7a\u00a9\u0000\u0092\u00dc",
+  "timeStamp": "2022-04-01T24:00:00-00:00"
+}

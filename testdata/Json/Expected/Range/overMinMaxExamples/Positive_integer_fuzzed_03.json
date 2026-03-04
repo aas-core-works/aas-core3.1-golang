@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:positiveInteger",
+  "min": "+87138",
+  "max": "+87138",
+  "modelType": "Range"
+}

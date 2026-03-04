@@ -1,0 +1,35 @@
+{
+  "semanticId": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "urn:another-company:14:e9fb9bbe"
+      }
+    ]
+  },
+  "supplementalSemanticIds": "Unexpected string value",
+  "name": "\u00db\u0103<P\udb63\udc7d\u00b2|dn\u009c\u00de\u00ae",
+  "valueType": "xs:gDay",
+  "value": "---01",
+  "refersTo": [
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "urn:an-example:18:1d00b242"
+        }
+      ]
+    },
+    {
+      "type": "ExternalReference",
+      "keys": [
+        {
+          "type": "GlobalReference",
+          "value": "urn:yet-another-company:00:b45040ec"
+        }
+      ]
+    }
+  ]
+}

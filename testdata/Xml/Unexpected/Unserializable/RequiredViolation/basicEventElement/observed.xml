@@ -1,0 +1,4 @@
+<basicEventElement xmlns="https://admin-shell.io/aas/3/1">
+  <direction>input</direction>
+  <state>on</state>
+</basicEventElement>

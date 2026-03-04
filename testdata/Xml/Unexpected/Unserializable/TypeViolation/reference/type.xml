@@ -1,0 +1,26 @@
+<reference xmlns="https://admin-shell.io/aas/3/1">
+  <type>
+    <type>ExternalReference</type>
+    <keys>
+      <key>
+        <type>GlobalReference</type>
+        <value>unexpected reference</value>
+      </key>
+    </keys>
+  </type>
+  <referredSemanticId>
+    <type>ExternalReference</type>
+    <keys>
+      <key>
+        <type>GlobalReference</type>
+        <value>urn:another-example:00:3fff168c</value>
+      </key>
+    </keys>
+  </referredSemanticId>
+  <keys>
+    <key>
+      <type>GlobalReference</type>
+      <value>urn:example:10:6914e6d2</value>
+    </key>
+  </keys>
+</reference>

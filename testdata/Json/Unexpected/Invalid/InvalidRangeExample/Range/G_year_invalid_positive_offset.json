@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:gYear",
+  "min": "2001+15:00",
+  "max": "2001+15:00",
+  "modelType": "Range"
+}

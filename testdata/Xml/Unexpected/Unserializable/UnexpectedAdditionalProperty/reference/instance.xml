@@ -1,0 +1,10 @@
+<reference xmlns="https://admin-shell.io/aas/3/1">
+  <type>ExternalReference</type>
+  <keys>
+    <key>
+      <type>GlobalReference</type>
+      <value>urn:example:10:6914e6d2</value>
+    </key>
+  </keys>
+  <unexpectedAdditionalProperty>UNEXPECTED-ADDITIONAL-PROPERTY</unexpectedAdditionalProperty>
+</reference>

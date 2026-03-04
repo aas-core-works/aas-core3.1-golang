@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:float",
+  "min": "+12.34e16",
+  "max": "+12.34e16",
+  "modelType": "Range"
+}

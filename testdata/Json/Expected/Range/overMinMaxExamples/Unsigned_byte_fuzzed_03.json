@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:unsignedByte",
+  "min": "232",
+  "max": "232",
+  "modelType": "Range"
+}

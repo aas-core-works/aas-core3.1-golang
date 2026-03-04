@@ -1,0 +1,4 @@
+<property xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:date</valueType>
+  <value>2022-04-01+02:00:12</value>
+</property>

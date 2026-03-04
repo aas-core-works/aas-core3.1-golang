@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:anyURI",
+  "min": "https://github.com/aas-core-works/aas-core-codegen",
+  "max": "https://github.com/aas-core-works/aas-core-codegen",
+  "modelType": "Range"
+}

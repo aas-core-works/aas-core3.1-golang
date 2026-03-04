@@ -1,0 +1,5 @@
+<qualifier xmlns="https://admin-shell.io/aas/3/1">
+  <type>something_86027eb8</type>
+  <valueType>xs:date</valueType>
+  <value>-0001-02-29</value>
+</qualifier>

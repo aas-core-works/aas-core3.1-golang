@@ -1,0 +1,17 @@
+<reference xmlns="https://admin-shell.io/aas/3/1">
+  <type>ModelReference</type>
+  <keys>
+    <key>
+      <type>Submodel</type>
+      <value>https://example.com/something</value>
+    </key>
+    <key>
+      <type>Blob</type>
+      <value>something_more</value>
+    </key>
+    <key>
+      <type>FragmentReference</type>
+      <value>yet_something_more</value>
+    </key>
+  </keys>
+</reference>

@@ -1,0 +1,4 @@
+<property xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:decimal</valueType>
+  <value>.3</value>
+</property>

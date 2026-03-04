@@ -1,0 +1,34 @@
+{
+  "idShort": "someList",
+  "typeValueListElement": "Property",
+  "valueTypeListElement": "xs:boolean",
+  "value": [
+    {
+      "semanticId": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "something-very-different-from-the-expected"
+          }
+        ]
+      },
+      "valueType": "xs:boolean",
+      "modelType": "Property"
+    },
+    {
+      "semanticId": {
+        "type": "ExternalReference",
+        "keys": [
+          {
+            "type": "GlobalReference",
+            "value": "yet-something-different-in-the-opposite-direction"
+          }
+        ]
+      },
+      "valueType": "xs:boolean",
+      "modelType": "Property"
+    }
+  ],
+  "modelType": "SubmodelElementList"
+}

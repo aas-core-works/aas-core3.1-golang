@@ -1,0 +1,4 @@
+<range xmlns="https://admin-shell.io/aas/3/1">
+  <valueType>xs:gDay</valueType>
+  <unexpectedAdditionalProperty>UNEXPECTED-ADDITIONAL-PROPERTY</unexpectedAdditionalProperty>
+</range>

@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:short",
+  "min": "-32768",
+  "max": "-32768",
+  "modelType": "Range"
+}

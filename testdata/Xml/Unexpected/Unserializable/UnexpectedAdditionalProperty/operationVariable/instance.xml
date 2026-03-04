@@ -1,0 +1,9 @@
+<operationVariable xmlns="https://admin-shell.io/aas/3/1">
+  <value>
+    <submodelElementList>
+      <idShort>something1d0edd81</idShort>
+      <typeValueListElement>Capability</typeValueListElement>
+    </submodelElementList>
+  </value>
+  <unexpectedAdditionalProperty>UNEXPECTED-ADDITIONAL-PROPERTY</unexpectedAdditionalProperty>
+</operationVariable>

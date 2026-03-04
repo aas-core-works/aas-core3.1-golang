@@ -1,0 +1,7 @@
+{
+  "min": false,
+  "nom": false,
+  "typ": false,
+  "max": true,
+  "unexpectedAdditionalProperty": "UNEXPECTED-ADDITIONAL-PROPERTY"
+}

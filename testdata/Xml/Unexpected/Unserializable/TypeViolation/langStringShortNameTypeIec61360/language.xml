@@ -1,0 +1,12 @@
+<langStringShortNameTypeIec61360 xmlns="https://admin-shell.io/aas/3/1">
+  <language>
+    <type>ExternalReference</type>
+    <keys>
+      <key>
+        <type>GlobalReference</type>
+        <value>unexpected reference</value>
+      </key>
+    </keys>
+  </language>
+  <text>something_24bc8444</text>
+</langStringShortNameTypeIec61360>

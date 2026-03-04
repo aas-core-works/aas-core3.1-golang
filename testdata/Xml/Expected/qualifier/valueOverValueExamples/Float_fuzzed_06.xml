@@ -1,0 +1,5 @@
+<qualifier xmlns="https://admin-shell.io/aas/3/1">
+  <type>something_86027eb8</type>
+  <valueType>xs:float</valueType>
+  <value>.5885e-29</value>
+</qualifier>

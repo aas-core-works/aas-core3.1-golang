@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:gDay",
+  "min": "15",
+  "max": "15",
+  "modelType": "Range"
+}

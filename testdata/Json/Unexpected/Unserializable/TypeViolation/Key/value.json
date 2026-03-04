@@ -1,0 +1,12 @@
+{
+  "type": "EventElement",
+  "value": {
+    "type": "ExternalReference",
+    "keys": [
+      {
+        "type": "GlobalReference",
+        "value": "unexpected reference"
+      }
+    ]
+  }
+}

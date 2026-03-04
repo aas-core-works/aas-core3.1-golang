@@ -1,0 +1,6 @@
+{
+  "valueType": "xs:string",
+  "min": "6",
+  "max": "6",
+  "modelType": "Range"
+}
